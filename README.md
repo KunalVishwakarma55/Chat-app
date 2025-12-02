@@ -1,5 +1,8 @@
 # ✨ Full Stack Realtime Chat App ✨
 
+## Live Demo
+[Frontend](https://chat-app-dqc2.onrender.com/)
+
 Highlights:
 
 - 🌟 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
